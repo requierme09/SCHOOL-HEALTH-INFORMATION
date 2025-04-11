@@ -20,8 +20,8 @@
                     </div>
                     <!-- /Logo -->
 
-                    <h4 class="mb-3 text-center">Adventure starts here 🚀</h4>
-                    <p class="mb-4 text-center">Make your app management easy and fun!</p>
+                    <h4 class="mb-3 text-center">Student-Health-Information</h4>
+                    <p class="mb-4 text-center">Welcome to Mobile legends bingbang!</p>
 
                     <form method="POST" action="{{ route('register') }}">
                         @csrf
